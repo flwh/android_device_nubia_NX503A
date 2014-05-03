@@ -13,4 +13,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-add_lunch_combo cm_NX403A-eng
+add_lunch_combo cm_NX503A-eng
